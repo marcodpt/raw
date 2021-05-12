@@ -40,3 +40,16 @@ const html = raw(h)
 without `text` param
 
 You can use any vdom or hyperscript like library and it will work to bring HTML strings to DOM
+
+## Tests
+Check if work in your [broser](https://marcodpt.github.io/raw/)
+
+Or do locally something like
+
+```
+python3 -m http.server 9000
+```
+
+## Contributing
+Yes please! It is a very simple project with a single file, no guidelines, any
+contribution is greatly appreciated!
